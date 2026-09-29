@@ -1,0 +1,12 @@
+1790705539s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/corneal_reflection_tracking/cr_is_bad_frame/data/.zattrs?versionId=JenFjT2oK.KhJLyIe9fyMhVxl_RhHHvo
+1790705539s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Fcorneal_reflection_tracking%2Fcr_is_bad_frame%2Fdata%2F.zattrs&download=true
+1790705540s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/eye_tracking/eye_is_bad_frame/data/.zattrs?versionId=TL6.40L12wI0fVTLoUfuNisTf8TMuc4f
+1790705540s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Feye_tracking%2Feye_is_bad_frame%2Fdata%2F.zattrs&download=true
+1790705540s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/facemap_motion_energy/behavior_is_keyframe_contaminated/data/.zattrs?versionId=VNYQe9URdmmjbFF8l_xdcQDGn2I9FIaR
+1790705540s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fbehavior_is_keyframe_contaminated%2Fdata%2F.zattrs&download=true
+1790705540s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/facemap_motion_energy/face_is_keyframe_contaminated/data/.zattrs?versionId=VMAY0NThpVPZwFOVdwrMRQzVwK.ENtOw
+1790705540s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fface_is_keyframe_contaminated%2Fdata%2F.zattrs&download=true
+1790705541s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/facemap_motion_energy/nose_is_keyframe_contaminated/data/.zattrs?versionId=qLUMnSv4qzLHbs5XtDHXL_04OF1gjOzE
+1790705541s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Ffacemap_motion_energy%2Fnose_is_keyframe_contaminated%2Fdata%2F.zattrs&download=true
+1790705542s 1 https://dandiarchive.s3.amazonaws.com/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/processing/behavior/pupil_tracking/pupil_is_bad_frame/data/.zattrs?versionId=M1pjxHxibO0H_.zse.3_sddHJCbpor2t
+1790705542s 1 https://api.dandiarchive.org/api/zarr/c2f26ecc-4322-45c2-aeca-edfebbf6e688/files?prefix=processing%2Fbehavior%2Fpupil_tracking%2Fpupil_is_bad_frame%2Fdata%2F.zattrs&download=true
